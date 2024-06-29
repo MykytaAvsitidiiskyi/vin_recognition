@@ -51,7 +51,7 @@ This is a sample code for training a neural network using the Keras library. The
 1. The trained model is saved to a file using the save function for future use.
 ## Results
 After integration of the CNN into numbers detection and recognition pipeline I could apply it to handwritten characters.
-![img.png](img.png)
+
 ## How to run
 Libs requirements:
 1. tensorflow
